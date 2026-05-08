@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+*.log
+.env
+.env.*
+notification_app_be/.env
+notification_app_be/dist/
+notification_app_be/coverage/
